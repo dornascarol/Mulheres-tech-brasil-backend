@@ -1,32 +1,41 @@
-<h1>Mulheres em Tech Brasil</h1>
+<h1>Mulheres em Tech Brasil :computer: </h1>
 <br>
+
 <h2>Este foi o projeto que aprendi no curso da PrograMaria</h2>
+
 <p>Projeto de API sobre mulheres brasileiras que se destacam na área de tecnologia.</p> 
-<img src="https://github.com/dornascarol/Mulheres-tech-brasil-backend/blob/main/Projeto.png?raw=true">
 <p>Uma base sólida nos fundamentos de: funcionamento da WEB; integração entre Back-end e banco de dados; processo de deploy; versionamento de códigos e GitHub; pensamento computacional; integração com o Front-end e proteção a dados sensíveis.</p>
 <p>Garantindo que o sistema esteja online e funcionando com qualidade.</p>
 <p>Unindo o cliente com o servidor.</p>
+<br>
+
 <h3>Neste projeto foram utilizados:</h3>
-- JavaScript e Node.JS
+:small_blue_diamond: JavaScript e Node.JS
 <br>
-- Criação de servidor
+:small_blue_diamond: Criação de servidor
 <br>
-- Desenvolvimento de API
+:small_blue_diamond: Desenvolvimento de API
 <br>
-- Operação em banco de dados MongoDB
+:small_blue_diamond: Operação em banco de dados MongoDB
 <br>
-- Deploy
+:small_blue_diamond: Deploy
 <br>
-- GIT
+:small_blue_diamond: GIT
 <br>
-- GitHub
+:small_blue_diamond: GitHub
 <br>
-- Pensamento computacional
+:small_blue_diamond: Pensamento computacional
 <br>
-- Insomnia
+:small_blue_diamond: Insomnia
 <br>
-- Render
+:small_blue_diamond: Render
 <br>
-- Vercel
+:small_blue_diamond: Vercel
 <br>
-- VS Code
+:small_blue_diamond: VS Code
+<br>
+<br>
+
+<div align="center">
+  <a href="https://frontend-react-programaria-git-main-dornascarol.vercel.app/"> <img width="80%" src="https://github.com/dornascarol/Mulheres-tech-brasil-backend/blob/main/Projeto.png?raw=true"/> </a>
+</div>  
